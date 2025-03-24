@@ -1,0 +1,25 @@
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\appsettings.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\web server stuff.exe
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\web server stuff.deps.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\web server stuff.runtimeconfig.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\web server stuff.dll
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\bin\Debug\net8.0\web server stuff.pdb
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.AssemblyInfoInputs.cache
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.AssemblyInfo.cs
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.csproj.CoreCompileInputs.cache
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets\msbuild.web server stuff.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets\msbuild.build.web server stuff.props
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web server stuff.props
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web server stuff.props
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\scopedcss\bundle\web server stuff.styles.css
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.dll
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\refint\web server stuff.dll
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.pdb
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\web server stuff.genruntimeconfig.cache
+C:\Users\brads\OneDrive\Documents\Arduino\folder for prodject stuff\web server stuff\obj\Debug\net8.0\ref\web server stuff.dll
